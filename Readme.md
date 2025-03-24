@@ -1,1 +1,2 @@
-Vamos aprendr a usar o git
+Vamos aprender a usar o git
+Fazendo auterações
